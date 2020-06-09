@@ -1,2 +1,1 @@
-# NLW
-Trabalho desenvolvido no evento Next Level Week
+Ecoleta   -   Marketplace de coleta de resíduos   -   Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente. Trabalho desenvolvido no evento Next Level Week - Comunidade Rocketseat - https://rocketseat.com.br/  
