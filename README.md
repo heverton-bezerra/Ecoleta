@@ -1,4 +1,15 @@
 Ecoleta   -   Marketplace de coleta de resíduos   -   Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente. Trabalho desenvolvido no evento Next Level Week - Comunidade Rocketseat - https://rocketseat.com.br/ .
- VsCode https://code.visualstudio.com/
+
+Editor de Codigo on-line:     
  
- Iniciar um servidor local de desenvolvimento com recurso de recarga ao vivo para páginas estáticas e dinâmicas - extensions: Marketplace - Live Server.
+     CodePen - https://codepen.io/  (HTML, CSS, JS)
+
+Editor de Codigo-Fonte:
+
+     VsCode -  https://code.visualstudio.com/
+     
+ 
+ - Live Server - Iniciar um servidor local de desenvolvimento com recurso de recarga ao vivo para páginas estáticas e dinâmicas -extensions: Marketplace.
+ 
+*instalar Json plugin  para facilitar a visualização de scrips na pagina do IBGE.
+
