@@ -13,3 +13,8 @@ Editor de Codigo-Fonte:
  
 *instalar Json plugin  para facilitar a visualização de scrips na pagina do IBGE.
 
+Primeiros passos para iniciar ambiente local
+- Abrir pasta NLW utilizando VScode.
+- Com o botão direito do mouse em <>index.html selecione - Open With Live Server.
+
+Pronto! Agora é só continuar a brincadeira!
